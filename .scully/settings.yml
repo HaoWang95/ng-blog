@@ -1,0 +1,11 @@
+identifier: k3xasambmdt6ufz8
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: ng-blog
+homeFolder: C:\Users\AlanWang\ngapp\ng-blog
+distFolder: dist/ng-blog
+outDir: C:\Users\AlanWang\ngapp\ng-blog\dist\static
+handle404: ''
+allowErrorCollect: true
