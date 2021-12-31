@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NgBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# ng-blog
+Angular+scully markdown blog
+>>>>>>> 3c6b1a4921e110ed68def3e7a3c09c4a6b73e6b9
